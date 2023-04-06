@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AI Summarizer](https://github.com/AryaCodesAI/OpenAI_GPT-3_Powered_AI_Summarizer)
 - 🌱 I’m currently learning **Deep Learning and Cloud Technologies**
-- 📄 Know about my experiences [Arya's Resume](https://drive.google.com/file/d/1dlQ9z_CH1bZBa5jylermB-ory06RMAcq/view?usp=sharing)
+- 📄 Know about my experiences [Arya's Resume]([https://drive.google.com/file/d/1dlQ9z_CH1bZBa5jylermB-ory06RMAcq/view?usp=sharing](https://drive.google.com/file/d/1FLpJFHjzCIhXTz-2hR5MokTp3QZnR-mb/view?usp=sharing))
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/arya-akhare/)
 - 👨‍💻 I’m open to work as a **Data Scientist**
 - 📫 Feel free to reach me at **aryaakhare2000@gmail.com**
