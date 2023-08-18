@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/arya_akhare" target="blank"><img src="https://img.shields.io/twitter/follow/arya_akhare?logo=twitter&style=for-the-badge" alt="arya_akhare" /></a> </p>
 
-- 🔭 I’m currently working on [AI Summarizer](https://github.com/AryaCodesAI/OpenAI_GPT-3_Powered_AI_Summarizer)
+- 🔭 I’m currently working on [CoFound.AI]
 - 🌱 I’m currently learning **Deep Learning, Cloud Technologies, LLMs, Generative AI, and Databases**
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/arya-akhare/)
 - 👨‍💻 I’m open to work as a **Data Scientist**
