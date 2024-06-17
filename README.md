@@ -1,14 +1,13 @@
 <h1 align="center"> Hi there !👋 I'm Arya 🌸 </h1>
-<h3 align="center">✨ I am a Data Scientist and I am open to Data Science roles! ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryacodesai&label=Profile%20views&color=0e75b6&style=flat" alt="aryacodesai" /> </p>
 
 <p align="left"> <a href="https://twitter.com/arya_akhare" target="blank"><img src="https://img.shields.io/twitter/follow/arya_akhare?logo=twitter&style=for-the-badge" alt="arya_akhare" /></a> </p>
 
-- 🔭 I’m currently working on AI
-- 🌱 I’m currently learning **Deep Learning, Cloud Technologies, LLMs, Generative AI, and Databases**
+- 🔭 I’m currently working on AI, Websites and all other fun things
+- 🌱 I’m currently learning **Web and Cloud Technologies, LLMs, Generative AI, and Databases**
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/arya-akhare/)
-- 👨‍💻 I’m open to work as a **Data Scientist**
+- 👨‍💻 I’m open to work globally
 - 📫 Feel free to reach me at **aryaakhare2000@gmail.com**
 - ⚡ I enjoy **F1, Gaming and Pet Turtle, Fish, and Birds**
 
@@ -22,6 +21,7 @@
 
 <!--
 **AryaCodesAI/AryaCodesAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">✨ I am a Data Scientist/Manager and I am open to Data related roles! ✨</h3>
 
 Here are some ideas to get you started:
 
