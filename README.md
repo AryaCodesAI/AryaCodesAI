@@ -9,7 +9,7 @@
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/arya-akhare/)
 - 👨‍💻 I’m open to work globally
 - 📫 Feel free to reach me at **aryaakhare2000@gmail.com**
-- ⚡ I enjoy **F1, Gaming and Pet Turtle, Fish, and Birds**
+- ⚡ I enjoy **F1, Gaming and Pet Keeping Turtle, Fish, and Birds**
 
 <h3 align="left">Connect with me:</h3>
 
